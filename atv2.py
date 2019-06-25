@@ -1,5 +1,5 @@
-def leia():
-    x= str(input('Insira um número:'))
+def valor(x):
+    x= str(x)
     l= str.__len__(x)
     if l==1:
         print (x[0])
@@ -28,5 +28,6 @@ def leia():
         msg= "bilhões"
         print (x[0],v,x[1:3],msg)
         
-leia()
+valor(312111)
     
+
