@@ -6,5 +6,4 @@ def resumir(x):
         return c
     else:
         print (x)
-resumir('aaaaaaaa aaaaaaaaaa aaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaa aaaaaaaaaaa aaaaaaaaaaaa aaaaaaa aaaaaaaa aaaaaaaaaaaaa aaaaaaaa aaaaaaaaaaaaaa aaaaaaaaa')
-
+resumir("INSIRA O TEXTO AQUI")
